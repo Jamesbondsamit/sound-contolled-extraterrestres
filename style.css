@@ -1,0 +1,35 @@
+body{
+    background:crimson;
+    font-family: 'Allison', cursive;
+}
+.header_div{
+    background: white;
+    color: indigo;
+    font-size: 30px;
+}
+.header_div p{
+    font-size: 40px;
+    color:green;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button{
+margin-top: 30px;
+width: 150px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: grey;
+    background-color: white;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    font-size: 30px;
+}
+#result_label,#result_confidence{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
